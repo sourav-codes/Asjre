@@ -1,0 +1,185 @@
+.nav-text{
+    margin-left: 45%;
+}
+
+.big-img{
+    width: 100vw;
+    height: 100vh;
+}
+
+.insurance-box{
+    background: rgba(0,0,0,0.5);
+    width: 45vw;
+    height: 12vh;
+    margin-left: 28%;
+    margin-top: -6%;
+align-content: center;
+
+
+}
+
+.insurance-holder{
+width: 40vw;
+margin-left: 2%;
+}
+
+.insurance-list{
+    display: flex;
+    list-style: none;
+}
+
+.insurance-divider{
+    border-left: 4px solid green;
+    height: 6vh;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+  }
+
+.insurance-detail{
+    background-color: #ADD8E6;
+    height: 60vh;
+}
+
+.info-box{
+    background-color: #4FC7CF;
+    height: 8vh;
+    width: 20vw;
+    border-radius: 50%;
+}
+
+.about-title{
+    margin-left: 46%;
+}
+
+.about-body{
+    text-align: center;
+    font-size: 130%;
+}
+
+.about-text{
+    width: 88vw;
+    margin-left: 4%;
+}
+
+.mat-card-image:first-child{
+    margin-top: 0px;
+}
+
+.mat-form-field.mat-focused .mat-form-field-ripple{
+    background-color: blue;
+}
+.mat-form-field.mat-focused.mat-primary .mat-select-arrow {
+    color: blue;
+}    
+.mat-primary .mat-option.mat-selected:not(.mat-option-disabled) {
+    color: blue;
+}
+
+.info-card{
+    width: 250px;
+    height: 250px;
+    margin-right: 60px;
+    margin-top: 30px;
+}
+
+.info-card:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    }
+
+.info-card p{
+    text-align: center;
+    margin-top: 70px;
+    font-size: large;
+}
+
+
+hr {
+    border: 1px solid black;
+  }
+
+.line1{
+    border-left: 6px solid #1016A6;
+    ;
+    height: 190px;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+.line2{
+    border-left: 6px solid #43AA8B;
+    height: 190px;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+.line3{
+    border-left: 6px solid #F8A608;
+    height: 190px;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+.line4{
+    border-left: 6px solid #21B4B4;
+    height: 190px;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+.advantage-card{
+    width: 185px;
+    height: 250px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.rcorners {
+    border-radius: 25px;
+    border: 2px solid #0CA69D;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    height: 70px;
+  }
+
+  .img1{
+      margin-left: 43px;
+  }
+
+  .login{
+    border-radius: 25px;
+    border: 2px solid #102389;
+    padding: 20px;
+    width: 6%;
+    text-align: center;
+    height: 0px;
+    margin-top: 10px;
+    margin-left: 170px;
+  }
+  .dropdown_arrow{
+    width: 25px;
+    height: 23px;
+    
+    
+  }
+
+.fact{
+    margin-left: 15px;
+    margin-top: 9px;
+}
+
+.partners{
+    display: flex;
+    margin: 30px;
+}
+
+.partners img{
+    margin-top: 60px;
+    margin-left: 7px;
+
+}
+
